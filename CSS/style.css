@@ -17,8 +17,18 @@ body{
 }
 .middle-container{
   background-color: white;
+  /*
   padding-left: 400px;
   display: block;
+  margin-top: 20px;
+  */
+
+
+}
+
+.img1{
+  position: relative;
+  left: 30%;
   margin-top: 20px;
 
 }
